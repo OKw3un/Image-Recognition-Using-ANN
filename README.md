@@ -5,7 +5,7 @@ This project implements a simple Artificial Neural Network (ANN) that can recogn
 ---
 
 ## How It's Made
-**Technologies:** C# / Java, Artificial Neural Networks, Basic Linear Algebra  
+**Technologies:** C#, Artificial Neural Networks, Basic Linear Algebra  
 
 The project starts by generating 5x5 matrices representing the digits 1 and 2. These matrices serve as the training dataset. A **Neuron** class was implemented to represent an artificial neuron, storing inputs and weights. All weights were initialized randomly between 0 and 1.  
 
